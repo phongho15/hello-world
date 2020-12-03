@@ -1,2 +1,2 @@
 <h1>Hello, DevOps' world!!!</h1>
-<h1>Deployed in Docker Container using Ansible playbooks.</h1>
+<h2>Deployed in Kubernetes using Ansible playbooks.</h2>
